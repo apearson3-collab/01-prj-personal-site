@@ -1,1 +1,32 @@
 /* Add you CSS here */
+body {
+  text-align: center;
+  background-color: #7598ff;
+}
+
+h1{
+  margin-bottom: 15px;
+}
+
+h2 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 900px;
+}
+
+.skill{
+  display: inline-block;
+  background: #3a6cff;
+  border-radius: 4px;
+  font-family: "arial-black";
+  font-size: 14px;
+  color: #000000;
+  padding: 8px 11px;
+  margin: 0px;
+}
